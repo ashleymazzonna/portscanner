@@ -38,5 +38,3 @@ if __name__ == "__main__":  # will only run if the main program is run, not from
 			scan(ip_add.strip(' '))
 	else:
 		scan(targets)
-	
-
